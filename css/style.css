@@ -5,7 +5,7 @@
     object-position: 50% 30%;
   }
   
-  .custom-btn {
+  /*.custom-btn {
     background-color: rgb(255, 255, 255); 
     color: black;           
     border-color: white;    
@@ -13,7 +13,7 @@
   .custom-btn:hover {
     background-color: #333; 
     color: #fff;            
-  }
+  }*/
   
   .list-group-item:focus {
     background-color: black !important;
