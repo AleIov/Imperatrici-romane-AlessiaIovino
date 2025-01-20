@@ -5,18 +5,18 @@
     object-position: 50% 30%;
   }
 
-  .card {
-    min-height: 400px; /* Altezza uniforme */
+  /*.card {
+    min-height: 400px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
   }
   
   .card-img-top {
-    height: 200px; /* Altezza fissa */
-    /*object-fit: cover;  Adatta l'immagine tagliando l'eccesso */
-    width: 100%; /* Assicura che occupi la larghezza del contenitore */
-  }
+    height: 200px; 
+    /*object-fit: cover;  
+    width: 100%;
+  } */
   
   .custom-btn {
     background-color: rgb(255, 255, 255); /* Colore di sfondo */
