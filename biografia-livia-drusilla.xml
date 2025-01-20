@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Livia Drusilla, Diva Augusta</title>
+                <author>Anonimo</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Autore sconosciuto</publisher>
+                <date>Sconosciuta</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Creato a partire da un testo storico su Livia Drusilla.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="biography">
+                <head>Livia Drusilla, Diva Augusta</head>
+                <p>
+                    <name>Livia Drusilla</name>, appartenente alla nobile famiglia <name type="family">Claudia</name>, 
+                    fu una figura centrale dell’età augustea e madre della dinastia Giulio-Claudia. Sposata inizialmente con 
+                    <name>Tiberio Claudio Nerone</name>, da cui ebbe i figli <name>Tiberio</name> e <name>Druso Maggiore</name>, 
+                    seguì il marito in esilio durante la guerra di Perugia (<date>41-40 a.C.</date>). Tornata a 
+                    Roma nel <date>39 a.C.</date>, attirò l’attenzione di <name>Ottaviano</name> 
+                    (futuro <name>Augusto</name>), che la sposò nel <date>38 a.C.</date>, nonostante fosse incinta di 
+                    sei mesi di <name>Druso</name>. Questo matrimonio consolidò l’alleanza con l’aristocrazia senatoria e 
+                    durò tutta la vita.
+                </p>
+                <p>
+                    Livia fu una moglie devota e un’importante consigliera politica di <name>Augusto</name>, esercitando grande 
+                    influenza nella gestione del principato e nella questione della successione, favorendo l’ascesa al potere 
+                    di suo figlio <name>Tiberio</name>. Le fonti antiche offrono ritratti ambivalenti: 
+                    <name>Tacito</name> la dipinge come ambiziosa e manipolatrice, mentre <name>Svetonio</name> e 
+                    <name>Ovidio</name> ne esaltano la virtù e la devozione.
+                </p>
+                <p>
+                    Dopo la morte di <name>Augusto</name> nel <date>14 d.C.</date>, Livia fu adottata nella 
+                    <name type="gens">gens Iulia</name> con il titolo di <name>Iulia Augusta</name>. Deificata nel 
+                    <date>42 d.C.</date> dall’imperatore <name>Claudio</name>, fu ricordata come <name>Diva Augusta</name>, 
+                    simbolo di stabilità dinastica e ideale di matrona romana.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

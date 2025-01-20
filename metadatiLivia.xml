@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadati xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/simpledc20021212.xsd 
+                              http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/dcterms.xsd">
+    <item>
+        <dc:title>Ritratto di Livia Drusilla</dc:title>
+        <dc:creator>Sconosciuto</dc:creator>
+        <dc:subject>Livia Drusilla</dc:subject>
+        <dcterms:subject>http://viaf.org/viaf/23674250</dcterms:subject>
+        <dc:publisher>Musei Capitolini</dc:publisher>
+        <dcterms:temporal>14-37 d.C.</dcterms:temporal>
+        <dc:type>Scultura</dc:type>
+        <dcterms:extent>Dimensioni: cm 96</dcterms:extent>
+        <dcterms:medium>marmo</dcterms:medium>
+        <dc:description>Busto di Livia Drusilla, moglie dell'Imperatore Augusto, realizzato in marmo. Attualmente esposto nei Musei Capitolini, Roma.</dc:description>
+        <dc:identifier>Inventario: inv. MC0444</dc:identifier>
+        <dc:language>it</dc:language>
+        <dcterms:spatial xsi:type="dcterms:GeoNames">https://www.geonames.org/8015030/musei-capitolini.html</dcterms:spatial>
+    </item>
+</metadati>
+
